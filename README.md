@@ -8,7 +8,7 @@ Copyright [Frank Hu](https://github.com/Frank-the-Obscure), 2015
 # 目录
 
 * 理性
-  * 语言的诡计
+  * [语言的诡计](language-secret.md)
   * 概念与定义
   * 相关与因果
   * 模型与机制
