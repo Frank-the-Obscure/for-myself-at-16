@@ -7,7 +7,8 @@ Copyright [Frank Hu](https://github.com/Frank-the-Obscure), 2015
 
 # 目录
 
-* 理性
+* [前言: 致十六岁的自己](preface.md)
+* [理性之心](rationality.md)
   * [语言的诡计](language-secret.md)
   * 概念与定义
   * 相关与因果
