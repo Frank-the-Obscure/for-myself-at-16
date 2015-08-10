@@ -10,7 +10,7 @@ Copyright [Frank Hu](https://github.com/Frank-the-Obscure), 2015
 * [前言: 致十六岁的自己](preface.md)
 * [理性之心](rationality.md)
   * [语言的诡计](language-secret.md)
-  * 概念与定义
+  * [概念与定义](concept-and-definition.md)
   * 相关与因果
   * 模型与机制
   * 否定: 理性的疆域
